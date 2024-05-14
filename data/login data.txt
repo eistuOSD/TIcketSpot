@@ -1,0 +1,5 @@
+Name        :  ABC
+Password  :  1234
+Mobile       :  01234567
+Email         :  ABC@gmail.com
+Gender      :  Male

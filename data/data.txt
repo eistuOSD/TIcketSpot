@@ -1,0 +1,18 @@
+Name        :  ABC
+Password  :  1234
+Mobile       :  01234567
+Email         :  ABC@gmail.com
+Gender      :  Male
+=================
+Name        :  EISTIYAK
+Password  :  123456
+Mobile       :  58963246
+Email         :  stdtrbgu@gmail.com
+Gender      :  Male
+=================
+Name        :  MK
+Password  :  4444
+Mobile       :  88888
+Email         :  kkkkk
+Gender      :  Male
+=================
